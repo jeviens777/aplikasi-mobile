@@ -12,14 +12,16 @@ Aplikasi mobile (React Native/Expo) untuk check-in dengan foto kamera + deteksi 
 
 ## 📷 Screenshot
 ## Tampilan APK
-![Tampilan Aplikasi](./assets/tampilan_apk.jpeg)
-## Tampilan Awal APK
-![Tampilan Awal](assets/awal_apk.jpeg) 
-## Inputan Gambar
-![Input Gambar](assets/input_apk.jpeg) 
-## Deskripsi Lokasi
-![Lokasi](assets/lokasi_apk.jpeg) 
+![Tampilan Aplikasi](tampilan_apk.jpeg)
 
+## Tampilan Awal APK
+![Tampilan Awal](awal_apk.jpeg)
+
+## Inputan Gambar
+![Input Gambar](input_apk.jpeg)
+
+## Deskripsi Lokasi
+![Lokasi](lokasi_apk.jpeg)
 
 
 ## 📦 Download APK
